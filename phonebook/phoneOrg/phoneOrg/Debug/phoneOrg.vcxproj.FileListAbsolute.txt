@@ -1,0 +1,2 @@
+C:\Data\msv\ADA\phoneOrg\Debug\phoneOrg.pdb
+C:\Data\msv\ADA\phoneOrg\phoneOrg\Debug\phoneOrg.pdb

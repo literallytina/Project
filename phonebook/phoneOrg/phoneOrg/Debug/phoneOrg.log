@@ -1,0 +1,4 @@
+﻿  phoneOrg.cpp
+C:\Data\msv\ADA\phoneOrg\phoneOrg\phoneOrg.cpp(59,45): warning C4101: 'add': unreferenced local variable
+C:\Data\msv\ADA\phoneOrg\phoneOrg\phoneOrg.cpp(269,23): warning C4101: 'c': unreferenced local variable
+  phoneOrg.vcxproj -> C:\Data\msv\ADA\phoneOrg\Debug\phoneOrg.lib
