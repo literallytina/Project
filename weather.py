@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Dept.: [EIE]
-GroupID: [TRN001]
-Name: [I-chen Fang]
-Student ID: [19084469D]
+Open the file with Terminal: 
+python weather.py -r "Region"
+
+e.g. python weather.py -r "Tai Po"
 
 """
 
