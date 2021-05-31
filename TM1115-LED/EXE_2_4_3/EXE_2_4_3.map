@@ -1,0 +1,38 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Mar 04 13:16:03 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000044
+                   .cinit    romdata   0x000044    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000045      
+            70 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    Blink   0x000018    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                    Delay   0x000036    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                     Loop   0x00000c    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                     Main   0x000004    program     static P:\TM1115\EXE_2_4_3\Main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     Main   0x000004    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                     Loop   0x00000c    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                    Blink   0x000018    program     static P:\TM1115\EXE_2_4_3\Main.asm
+                    Delay   0x000036    program     static P:\TM1115\EXE_2_4_3\Main.asm
+
+

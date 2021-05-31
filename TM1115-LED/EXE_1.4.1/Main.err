@@ -1,0 +1,3 @@
+Warning[205] C:\TM1115-PROJECT\EXE_1.4.1\MAIN.ASM 3 : Found directive in column 1. (ORG)
+Warning[203] C:\TM1115-PROJECT\EXE_1.4.1\MAIN.ASM 4 : Found opcode in column 1. (goto)
+Warning[205] C:\TM1115-PROJECT\EXE_1.4.1\MAIN.ASM 17 : Found directive in column 1. (END)

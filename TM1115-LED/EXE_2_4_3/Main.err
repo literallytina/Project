@@ -1,0 +1,5 @@
+Warning[205] P:\TM1115\EXE_2_4_3\MAIN.ASM 3 : Found directive in column 1. (cblock)
+Warning[205] P:\TM1115\EXE_2_4_3\MAIN.ASM 6 : Found directive in column 1. (ENDC)
+Warning[205] P:\TM1115\EXE_2_4_3\MAIN.ASM 8 : Found directive in column 1. (ORG)
+Warning[203] P:\TM1115\EXE_2_4_3\MAIN.ASM 9 : Found opcode in column 1. (goto)
+Warning[205] P:\TM1115\EXE_2_4_3\MAIN.ASM 48 : Found directive in column 1. (END)

@@ -1,0 +1,42 @@
+MPASM  5.46                          MAIN.ASM   3-4-2021  14:32:07         PAGE  1
+
+
+LOC  OBJECT CODE     LINE SOURCE TEXT
+  VALUE
+
+Error[105]  : Cannot open file (Include File "p18f4520.h" not found)
+                      00001 #include<p18f4520.h>
+                      00002 
+Error[122]  : Illegal opcode (main)
+                      00003 void main(void)
+Error[108]  : Illegal character ({)
+                      00004 {
+Warning[207]: Found label after column 1. (int)
+Error[122]  : Illegal opcode (count)
+                      00005         int count = 0;
+Warning[207]: Found label after column 1. (int)
+Error[122]  : Illegal opcode (DoSomething)
+                      00006         int DoSomething = 0;
+                      00007         
+Warning[207]: Found label after column 1. (TRISB)
+  000000F0            00008         TRISB = 0xF0;
+                      00009         
+Error[129]  : Expected (ENDW)
+                      00010         while(1)
+Error[129]  : Expected (END)
+MPASM  5.46                          MAIN.ASM   3-4-2021  14:32:07         PAGE  2
+
+
+SYMBOL TABLE
+  LABEL                             VALUE 
+
+TRISB                             000000F0
+__18F4520                         00000001
+__DEBUG                           1
+__MPLAB_DEBUGGER_ICD2             1
+
+Errors   :     7
+Warnings :     3 reported,     0 suppressed
+Messages :     0 reported,     0 suppressed
+
+
